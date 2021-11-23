@@ -1,0 +1,23 @@
+# webpage
+<html>
+<head>
+	<title>MY WEBPAGE</title>
+</head>
+<body align="center" style="background-color:#fb98fa5c;">
+<p>MY WEBPAGE</p>
+Name:<input type="text"><br><br>
+password:<input type="password"><br><br>
+number:<input type="number"><br><br>
+gender:male<input type="radio" name="gender"> female <input type="radio" name="gender"><br><br>
+date of birth:<input type="date" name="mydate"><br><br>
+select your branch:
+<select>
+<option> ece </option>
+<option> eee </option>
+</select><br>
+<p>"you thing these terms are correct"<br>agree your terms:<input type="checkbox"></p><br>
+feedback:<textarea> </textarea><br><br>
+<input type="submit"><br><br>
+
+</body>
+</html>
